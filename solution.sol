@@ -31,3 +31,4 @@ contract WithdrawalContract {
         payable(msg.sender).transfer(amount);
     }
 }
+
