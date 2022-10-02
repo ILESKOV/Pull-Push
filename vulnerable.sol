@@ -22,3 +22,4 @@ contract SendContract {
         mostSent = msg.value;
     }
 }
+
